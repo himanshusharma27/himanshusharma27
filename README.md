@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full-stack development
-- 🌱 I’m currently learning about full-stack development
-- 👯 I’m looking to collaborate on Remote Software ENGINEER JOB
+- 🔭 I’m currently working on SOFTWARE DEVELOPMENT
+- 🌱 I’m currently learning about NEW TECH SKILLS
+- 👯 I’m looking to collaborate on  SOFTWARE DEVELOPMENT
 - 🤔 I’m looking for help with software development 
 - 💬 Ask me about ...
 - 📫 How to reach me: ... 
