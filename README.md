@@ -2,6 +2,8 @@ Hi there 👋 I'm Himanshu Sharma
 
 Welcome to my GitHub profile! I'm passionate about software development and continuously exploring new technologies to expand my skill set. Here's a bit more about me:
 
+EX- amazon SDE   
+
 🔭 Currently Working On Software Development Projects
 
 🌱 Currently Learning: Advanced Tech Skills and Emerging Technologies
